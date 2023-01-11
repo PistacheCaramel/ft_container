@@ -1,6 +1,7 @@
 #include "ft_container.hpp"
 #include "iterator_traits.hpp"
 #include "reverse_iterator.hpp"
+#include "reverse_iterator.tpp"
 #include <iterator>
 #include <list>
 #include <iostream>
